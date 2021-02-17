@@ -1,0 +1,29 @@
+{
+  "name": "dash--json-schema",
+  "version": "7.0.0",
+  "description": "",
+  "engines": {
+    "npm": ">=7"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nju33/dash--json-schema.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nju33/dash--json-schema/issues"
+  },
+  "homepage": "https://github.com/nju33/dash--json-schema#readme",
+  "devDependencies": {
+    "puppeteer": "^7.1.0"
+  },
+  "dependencies": {
+    "mkdirp": "^1.0.4",
+    "p-map": "^4.0.0",
+    "sqlite3": "^5.0.2"
+  }
+}
